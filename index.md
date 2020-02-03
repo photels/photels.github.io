@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "P-Hotels - Development"
 ---
 
-## You're ready to go!
+## Under development
 
-Start developing your Jekyll website.
+This site is under development.
+
+If you are looking for the P-Hotels website, please use [p-hotels.no](http://p-hotels.no/)
