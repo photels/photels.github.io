@@ -9,19 +9,7 @@
   <body>
     {{ content }}
     {% for hotel in site.data.hotels.hotels %}
-    <section>
-      <h2>{{ hotel.name }}</h2>
-      <p>{{ hotel.description-no }}</p>
-      <p>{{ hotel.description-en }}</p>
-      <ul>
-        <li>{{ hotel.address }}, {{ hotel.zip }} {{ hotel.city }}</li>
-        <li>{{ hotel.phone }}</li>
-        <li>{{ hotel.email }}</li>
-        <li>{{ hotel.rooms-no }}</li>
-        <li>{{ hotel.rooms-en }}</li>
-        <li>{{ hotel.conference-no }}</li>
-        <li>{{ hotel.conference-en }}</li>
-    </section>
+    {% include component-hotel.html content=hotel %}
     {% endfor %}
   </body>
 </html>
