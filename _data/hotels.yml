@@ -12,6 +12,7 @@ hotels:
   rooms-en: ''
   conference-no: Møteromskapasitet består av 3 møterom opp til maks 150 personer, arrangement restaurant og takterrasse
   conference-en: ''
+  
 - name: P-Hotels Oslo
   description-no: P-Hotels Oslo ligger midt i Oslo sentrum. Det er kort vei til shopping, Karl Johans gate, Aker Brygge og byens severdigheter. Offentlig kommunikasjon og flybuss til Oslo Lufthavn Gardemoen er rett i nærheten.
   description-en: 'P-hotels Oslo is located in Oslo city center. The Hotels is close to shopping, Karl Johans gate, Aker Brygge and city sights. Public transportation and the airport bus to Oslo Airport Gardermoen is right nearby.'
@@ -25,6 +26,7 @@ hotels:
   rooms-en: ''
   conference-no: Møteromskapasitet består av 3 møterom opp til maks 150 personer, arrangement restaurant og takterrasse
   conference-en: ''
+
 - name: P-Hotels Bergen
   description-no: P-Hotels Bergen ligger sentralt plassert i Bergen sentrum. Kort vei til shopping, museum, Bryggene og restauranter. Kort vei til offentlige transportmidler og flybuss.
   description-en: 'P-Hotels Bergen is located in Bergen center. Close to shopping, museum, docks and restaurants. Close to public transportation and airport bus.'
