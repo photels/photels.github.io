@@ -1,14 +1,12 @@
 <section>
+  <img src="{{ include.content.image }}" alt="{{ include.content.name }}">
   <h2>{{ include.content.name }}</h2>
-  <p>{{ include.content.description-no }}</p>
-  <p>{{ include.content.description-en }}</p>
+  <p>{{ include.content.[include.lang].description }}</p>
   <ul>
     <li>{{ include.content.address }}, {{ include.content.zip }} {{ include.content.city }}</li>
     <li>{{ include.content.phone }}</li>
     <li>{{ include.content.email }}</li>
-    <li>{{ include.content.rooms-no }}</li>
-    <li>{{ include.content.rooms-en }}</li>
-    <li>{{ include.content.conference-no }}</li>
-    <li>{{ include.content.conference-en }}</li>
+    <li>{{ include.content.[include.lang].rooms }}</li>
+    <li>{{ include.content.[include.lang].conference }}</li>
   </ul>
 </section>

@@ -1,42 +1,49 @@
 hotels:
 - name: P-Hotels Brattøra
-  description-no: P-Hotels Brattøra ligger sentralt til ved Trondheim sentralstasjon, offentlig kommunikasjon og flybuss. Hotellet ligger i kort gangavstand til shopping og byens severdigheter. Flott utsikt over byen og Trondheimsfjorden.
-  description-en: 'P-Hotels Brattøra is centrally located at Trondheim Central Station, public transport and the airport bus. The hotel is within short walking distance to shopping and sights. Great views of the city and the Trondheim Fjord.'
+  eng:
+    description: P-Hotels Brattøra is centrally located at Trondheim Central Station, public transport and the airport bus. The hotel is within short walking distance to shopping and sights. Great views of the city and the Trondheim Fjord.
+    rooms: ''
+    conference: ''
+  nor:
+    description: P-Hotels Brattøra ligger sentralt til ved Trondheim sentralstasjon, offentlig kommunikasjon og flybuss. Hotellet ligger i kort gangavstand til shopping og byens severdigheter. Flott utsikt over byen og Trondheimsfjorden.
+    rooms: Hotellet har 128 dobbeltrom, bad, TV og gratis WI-FI
+    conference: Møteromskapasitet består av 3 møterom opp til maks 150 personer, arrangement restaurant og takterrasse
   address: Fosenkaia 7
   zip: 7022
   city: Trondheim
   phone: +47 73 60 40 05
   email: brattora@p-hotels.no
   map-src: ''
-  rooms-no: Hotellet har 128 dobbeltrom, bad, TV og gratis WI-FI
-  rooms-en: ''
-  conference-no: Møteromskapasitet består av 3 møterom opp til maks 150 personer, arrangement restaurant og takterrasse
-  conference-en: ''
-  
+  image: brattora.jpg
+
 - name: P-Hotels Oslo
-  description-no: P-Hotels Oslo ligger midt i Oslo sentrum. Det er kort vei til shopping, Karl Johans gate, Aker Brygge og byens severdigheter. Offentlig kommunikasjon og flybuss til Oslo Lufthavn Gardemoen er rett i nærheten.
-  description-en: 'P-hotels Oslo is located in Oslo city center. The Hotels is close to shopping, Karl Johans gate, Aker Brygge and city sights. Public transportation and the airport bus to Oslo Airport Gardermoen is right nearby.'
+  eng:
+    description: P-hotels Oslo is located in Oslo city center. The Hotels is close to shopping, Karl Johans gate, Aker Brygge and city sights. Public transportation and the airport bus to Oslo Airport Gardermoen is right nearby.
+    rooms: ''
+    conference: ''
+  nor:
+    description: P-Hotels Oslo ligger midt i Oslo sentrum. Det er kort vei til shopping, Karl Johans gate, Aker Brygge og byens severdigheter. Offentlig kommunikasjon og flybuss til Oslo Lufthavn Gardemoen er rett i nærheten.
+    rooms: Hotellet har 128 dobbeltrom, bad, TV og gratis WI-FI
+    conference: Møteromskapasitet består av 3 møterom opp til maks 150 personer, arrangement restaurant og takterrasse
   address: Grensen 19
   zip: 0159
   city: Oslo
   phone: +47 73 60 40 05
   email: brattora@p-hotels.no
   map-src: ''
-  rooms-no: Hotellet har 128 dobbeltrom, bad, TV og gratis WI-FI
-  rooms-en: ''
-  conference-no: Møteromskapasitet består av 3 møterom opp til maks 150 personer, arrangement restaurant og takterrasse
-  conference-en: ''
 
 - name: P-Hotels Bergen
-  description-no: P-Hotels Bergen ligger sentralt plassert i Bergen sentrum. Kort vei til shopping, museum, Bryggene og restauranter. Kort vei til offentlige transportmidler og flybuss.
-  description-en: 'P-Hotels Bergen is located in Bergen center. Close to shopping, museum, docks and restaurants. Close to public transportation and airport bus.'
+  eng:
+    description: P-Hotels Bergen ligger sentralt plassert i Bergen sentrum. Kort vei til shopping, museum, Bryggene og restauranter. Kort vei til offentlige transportmidler og flybuss.
+    rooms: ''
+    conference: ''
+  nor:
+    description: P-Hotels Bergen is located in Bergen center. Close to shopping, museum, docks and restaurants. Close to public transportation and airport bus.
+    rooms: Hotellet har 114 dobbeltrom, bad, TV og gratis WI-FI
+    conference: Møteromskapasitet opp til 35 personer
   address: Vestre Torggate 9
   zip: 5015
   city: Bergen
   phone: +47 55 21 00 00
   email: bergen@p-hotels.no
   map-src: ''
-  rooms-no: Hotellet har 114 dobbeltrom, bad, TV og gratis WI-FI
-  rooms-en: ''
-  conference-no: Møteromskapasitet opp til 35 personer
-  conference-en: ''

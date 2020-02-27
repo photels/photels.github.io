@@ -7,6 +7,6 @@ title: "P-Hotels - Development"
 
 Rimeligste pris får du ved å bestille her på våre nettsider
 
-{% for hotel in site.data.hotels.hotels %}
-  {% include component-hotel.html content=hotel %}
+{% for hotel in site.data.hotels.hotels%}
+  {% include component-hotel.html content=hotel lang='nor' %}
 {% endfor %}
