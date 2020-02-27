@@ -31,7 +31,7 @@ hotels:
   phone: +47 73 60 40 05
   email: brattora@p-hotels.no
   map-src: ''
-  image-src: ''
+  image-src: 'oslo.jpg'
 
 - name: P-Hotels Bergen
   eng:
@@ -48,4 +48,4 @@ hotels:
   phone: +47 55 21 00 00
   email: bergen@p-hotels.no
   map-src: ''
-  image-src: ''
+  image-src: 'bergen.jpg'
