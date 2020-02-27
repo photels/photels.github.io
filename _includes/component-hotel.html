@@ -1,12 +1,16 @@
-<section>
+<section class="hotel">
   <img src="../assets/images/{{ include.content.image-src }}" alt="{{ include.content.name }}">
+  <div class="description">
   <h2>{{ include.content.name }}</h2>
   <p>{{ include.content.[include.lang].description }}</p>
-  <ul>
-    <li>{{ include.content.address }}, {{ include.content.zip }} {{ include.content.city }}</li>
-    <li>{{ include.content.phone }}</li>
-    <li>{{ include.content.email }}</li>
-    <li>{{ include.content.[include.lang].rooms }}</li>
-    <li>{{ include.content.[include.lang].conference }}</li>
-  </ul>
+  </div>
+  <div class="usp">
+    <ul>
+      <li class="address">{{ include.content.address }}<br>{{ include.content.zip }} {{ include.content.city }}</li>
+      <li class="phone">{{ include.content.phone }}</li>
+      <li class="email">{{ include.content.email }}</li>
+      <li class="rooms">{{ include.content.[include.lang].rooms }}</li>
+      <li class="conference">{{ include.content.[include.lang].conference }}</li>
+    </ul>
+  </div>
 </section>
