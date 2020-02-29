@@ -1,5 +1,5 @@
-hotels:
 - name: P-Hotels Brattøra
+  id: brattora
   eng:
     description: P-Hotels Brattøra is centrally located at Trondheim Central Station, public transport and the airport bus. The hotel is within short walking distance to shopping and sights. Great views of the city and the Trondheim Fjord.
     rooms: ''
@@ -17,6 +17,7 @@ hotels:
   image-src: brattora.jpg
 
 - name: P-Hotels Oslo
+  id: oslo
   eng:
     description: P-hotels Oslo is located in Oslo city center. The Hotels is close to shopping, Karl Johans gate, Aker Brygge and city sights. Public transportation and the airport bus to Oslo Airport Gardermoen is right nearby.
     rooms: ''
@@ -34,6 +35,7 @@ hotels:
   image-src: 'oslo.jpg'
 
 - name: P-Hotels Bergen
+  id: bergen
   eng:
     description: P-Hotels Bergen ligger sentralt plassert i Bergen sentrum. Kort vei til shopping, museum, Bryggene og restauranter. Kort vei til offentlige transportmidler og flybuss.
     rooms: ''

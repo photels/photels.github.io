@@ -5,6 +5,10 @@ $color-white: #f5f5f5;
 $color-green: #82BC00;
 $bodyFont: 'Work Sans', sans-serif;
 
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   background: $backgroundColor;
   color: $bodyColor;
@@ -13,8 +17,50 @@ body {
   margin: 0;
 }
 
-div{
+section, div{
   box-sizing: border-box;
+}
+
+section.hero{
+  padding: 1.5rem;
+  height: 100vh;
+  background: rgb(2,0,36);
+  background: linear-gradient(135deg, rgba(2,0,36,.9) 0%, rgba(130,188,0,.5) 100%), url('/assets/images/hero-trondheim.jpg');
+  background-size: cover;
+  background-position: center top;
+  position: relative;
+
+  text-align: center;
+
+  div{
+    position: relative;
+    top: 40%;
+  }
+
+  .link-more{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 1.5rem 0;
+    font-size: .75rem;
+    line-height: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: $color-white;
+    span{
+      font-size: 2rem;
+      transition: transform .5s;
+    }
+  }
+
+  .link-more:hover{
+    text-decoration: underline;
+    span{
+      transform: translateY(.5rem);
+    }
+  }
 }
 
 section.hotel{
@@ -33,6 +79,14 @@ section.hotel{
     padding: 1.5rem;
     box-sizing: border-box;
   }
+}
+
+h1{
+  font-size: 3rem;
+  line-height: 3.25rem;
+  font-weight: 700;
+  color: $color-green;
+  margin: 0 0 1.5rem 0;
 }
 
 h2{

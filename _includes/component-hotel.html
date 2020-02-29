@@ -1,17 +1,17 @@
-<section class="hotel">
-  <img src="../assets/images/{{ include.content.image-src }}" alt="{{ include.content.name }}">
+<section class="hotel" id="{{ include.content.id }}">
+  <img src="/assets/images/{{ include.content.image-src }}" alt="{{ include.content.name }}">
   <div class="about">
     <div>
       <h2>{{ include.content.name }}</h2>
-      <p>{{ include.content.[include.lang].description }}</p>
+      <p>{{ include.content.[page.lang].description }}</p>
     </div>
     <div>
       <ul>
         <li class="address">{{ include.content.address }}, {{ include.content.zip }} {{ include.content.city }}</li>
         <li class="phone">{{ include.content.phone }}</li>
         <li class="email">{{ include.content.email }}</li>
-        <li class="rooms">{{ include.content.[include.lang].rooms }}</li>
-        <li class="conference">{{ include.content.[include.lang].conference }}</li>
+        <li class="rooms">{{ include.content.[page.lang].rooms }}</li>
+        <li class="conference">{{ include.content.[page.lang].conference }}</li>
       </ul>
     </div>
   </div>

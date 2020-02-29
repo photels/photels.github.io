@@ -1,12 +1,11 @@
 ---
 layout: default
 title: "P-Hotels - Development"
+lang: nor
 ---
 
-# Bo billig og sentralt
+{% include component-hero.html %}
 
-Rimeligste pris får du ved å bestille her på våre nettsider
-
-{% for hotel in site.data.hotels.hotels%}
-  {% include component-hotel.html content=hotel lang='nor' %}
+{% for hotel in site.data.hotels %}
+  {% include component-hotel.html content=hotel%}
 {% endfor %}
