@@ -1,0 +1,22 @@
+<section class="facilities">
+  {% for facility in site.data.facilities  %}
+
+    {% if facility.text and facility.icon %}
+      <div class="icon material-icons">
+        {{ facility.icon }}
+      </div>
+      <div class="fac half">
+        <h3>{{ facility.text }}</h3>
+      </div>
+    {% else %}
+      <div class="fac">
+        <h3>{{ facility.text }}</h3>
+      </div>
+    {% endif %}
+
+    {% if facility.img %}
+      <img src="/assets/images/{{ facility.img }}">
+    {% endif %}
+
+  {% endfor %}
+</section>

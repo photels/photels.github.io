@@ -1,0 +1,10 @@
+<footer>
+  <img class="logo" src="/assets/images/photels-logo.svg">
+  <ul>
+  {% for hotel in site.data.hotels %}
+    <li>
+      <a href="mailto:{{ hotel.email }}">{{ hotel.email }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</footer>
