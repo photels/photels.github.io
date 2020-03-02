@@ -156,21 +156,26 @@ section#hotels{
 }
 
 section#facilities{
+  h3{
+    font-size: 2.25rem;
+    line-height: 3rem;
+    margin: 0;
+  }
   overflow: hidden;
   div{
     text-align: center;
   }
   .fac.half{
-    padding: 1.5rem 3rem 3rem 3rem;
+    padding: 1.5rem 3rem 6rem 3rem;
   }
   .fac{
-    padding: 3rem 1.5rem;
+    padding: 9rem 1.5rem;
   }
   .icon{
     color: $color-green;
     display: block;
     font-size: 6rem;
-    padding: 3rem 3rem 0 3rem;
+    padding: 6rem 3rem 0 3rem;
   }
   img{
     width: 100%;
@@ -232,13 +237,25 @@ p{
   margin: 0 0 1.5rem 0;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 767px) {
   nav{
     display: none;
   }
 }
 
-@media (min-width: 640px) {
+
+
+@media (max-width: 1024px) {
+  section#facilities{
+    h3{
+      font-size: 1.5rem;
+      line-height: 2rem;
+      margin: 1rem 0;
+    }
+  }
+}
+
+@media (min-width: 768px) {
   section#hotels{
     .about{
       div{
@@ -252,13 +269,13 @@ p{
     .fac.half, .icon{
       width: 50%;
       float: left;
-      padding: 6rem 3rem;
+      padding: 9rem 3rem;
     }
     .fac.half:nth-child(odd), .icon:nth-child(odd){
       float: right;
     }
     .fac{
-      padding: 3rem 6rem;
+      padding: 9rem;
     }
     .icon{
       color: $color-white;
