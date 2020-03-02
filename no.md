@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "P-Hotels - Development"
-lang: nor
+lang: no
 ---
 
 {% include component-hero.html %}
