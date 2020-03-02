@@ -182,7 +182,7 @@ ul{
 }
 
 @media (min-width: 640px) {
-  section.hotel{
+  section#hotels{
     .about{
       div{
         width: 50%;
@@ -191,7 +191,7 @@ ul{
       }
     }
   }
-  section.facilities{
+  section#facilities{
     .fac.half, .icon{
       width: 50%;
       float: left;
