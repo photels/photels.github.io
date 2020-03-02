@@ -22,10 +22,11 @@ section, div{
 }
 
 header{
+  text-transform: uppercase;
   display: block;
   overflow: auto;
   background-color: $color-black;
-  padding: 0 1.5rem;
+  padding: 0 .75rem;
   position: fixed;
   width: 100%;
   box-sizing: border-box;
@@ -39,35 +40,29 @@ header{
 
   a{
     padding: .75rem;
-    background-color: red;
     font-size: 1rem;
     line-height: 1.5rem;
     float: right;
     text-decoration: none;
+    color: $color-white;
+    &:hover{
+      background-color: lighten($color-black, 5%);
+    }
   }
 }
 
 nav{
-  text-transform: uppercase;
-  background-color: $color-black;
   font-size: 1rem;
   line-height: 1.5rem;
   ul{
     overflow: auto;
     margin: 0;
-    padding: .75rem 0;
+    padding: 0;
   }
   li{
     margin: 0;
     padding: 0;
-  }
-  a{
-    color: $color-white;
-    display: block;
-    padding: .75rem 1.5rem;
-    &:hover{
-      background-color: lighten($color-black, 10%);
-    }
+    float: right;
   }
 }
 
@@ -229,6 +224,12 @@ p{
   font-weight: 400;
   color: $color-white;
   margin: 0 0 1.5rem 0;
+}
+
+@media (max-width: 640px) {
+  nav{
+    display: none;
+  }
 }
 
 @media (min-width: 640px) {

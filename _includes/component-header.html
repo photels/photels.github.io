@@ -1,19 +1,18 @@
 <header>
   <img class="logo" src="/assets/images/photels-logo.svg">
-  <a class="material-icons" href="#">menu</a>
   {% if page.lang == 'en' %}
-    <a href="/no">NO</a>
+    <a href="/no">Norsk</a>
   {% else %}
-    <a href="/en">EN</a>
+    <a href="/en">English</a>
   {% endif %}
-</header>
 
-<nav>
-  <ul>
-    {% for item in site.data.nav%}
-    <li>
-      <a href="#{{ item.link }}">{{ item.[page.lang] }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</nav>
+  <nav>
+    <ul>
+      {% for item in site.data.nav%}
+      <li>
+        <a href="#{{ item.link }}">{{ item.[page.lang] }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
