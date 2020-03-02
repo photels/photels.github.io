@@ -1,17 +1,27 @@
-- text: Alle P-hoteller har kort avstand til restauranter, butikker, byens severdigheter,  buss, tog og flyplasstransport
+- text:
+    nor: Alle P-hoteller har kort avstand til restauranter, butikker, byens severdigheter,  buss, tog og flyplasstransport
+    eng: All P-hotels are within short distance of restaurants, shops, city attractions, buses, trains and airport transfers.
   img: fac-1.jpg
 
-- text: Frokost kan kjøpes i vår resepsjon.
+- text:
+    nor: Frokost kan kjøpes i vår resepsjon.
+    eng: Breakfast can be purchased at our reception.
   icon: free_breakfast
   img: fac-2.jpg
 
-- text: Hotellene våre er betjent 24 timer i døgnet
+- text:
+    nor: Hotellene våre er betjent 24 timer i døgnet.
+    eng: Our hotels are serviced 24 hours a day.
   icon: mood
   img: fac-3.jpg
 
-- text: Gratis trådløst nett i alle våre hoteller.
+- text:
+    nor: Gratis trådløst nett i alle våre hoteller.
+    eng: Free wireless internet in all our hotels.
   icon: wifi
   img: fac-4.jpg
 
-- text: Bad og tv er standard
+- text:
+    nor: Bad og tv er standard.
+    eng: Bathroom and TV are standard.
   icon: bathtub live_tv
