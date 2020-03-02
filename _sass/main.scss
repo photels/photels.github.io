@@ -84,13 +84,13 @@ section#hero{
   }
 
   img{
-    width: 12rem;
-    margin: 3rem 0;
+    width: 6rem;
+    margin: 0;
   }
 
   .link-more{
     display: block;
-    padding: 1.5rem 0;
+    padding: .75rem 0;
     font-size: .75rem;
     line-height: 1rem;
     font-weight: 500;
@@ -206,8 +206,8 @@ footer{
 }
 
 h1{
-  font-size: 3rem;
-  line-height: 3.25rem;
+  font-size: 2rem;
+  line-height: 2.5rem;
   font-weight: 700;
   color: $color-green;
   margin: 0 0 1.5rem 0;
@@ -259,6 +259,12 @@ p{
   header{
     padding: 0 1.5rem;
   }
+  section#hero{
+    img{
+      width: 12rem;
+      margin: 3rem 0;
+    }
+  }
   section#hotels{
     .about{
       div{
@@ -284,5 +290,13 @@ p{
       color: $color-white;
       background-color: $color-green;
     }
+  }
+
+  h1{
+    font-size: 3rem;
+    line-height: 3.25rem;
+    font-weight: 700;
+    color: $color-green;
+    margin: 0 0 1.5rem 0;
   }
 }
