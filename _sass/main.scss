@@ -21,7 +21,7 @@ section, div{
   box-sizing: border-box;
 }
 
-section.hero{
+section#hero{
   padding: 1.5rem;
   height: 100vh;
   background: rgb(2,0,36);
@@ -60,7 +60,7 @@ section.hero{
   }
 }
 
-section.hotel{
+section#hotels{
   background-color: $color-black;
   color: $color-white;
   padding: 0;
@@ -78,7 +78,7 @@ section.hotel{
   }
 }
 
-section.facilities{
+section#facilities{
   overflow: hidden;
   div{
     text-align: center;
@@ -161,13 +161,16 @@ ul{
   list-style: none;
   li{
     margin: 0 0 1rem 0;
-    padding: 0 0 0 2.25rem;
+    padding: 0 0 0 1.75rem;
     position: relative;
+    font-size: 1rem;
+    line-height: 1.5rem;
   }
   li::before{
     font-family: 'Material Icons';
     color: $color-green;
-    font-size: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
     position: absolute;
     left: 0;
   }
