@@ -25,27 +25,49 @@ header{
   display: block;
   overflow: auto;
   background-color: $color-black;
-  padding: .75rem 1.5rem;
+  padding: 0 1.5rem;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  z-index: 1000;
 
   img{
-    height: 3rem;
+    height: 1.5rem;
+    padding: .75rem 0;
     float: left;
+  }
+
+  a{
+    padding: .75rem;
+    background-color: red;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    float: right;
+    text-decoration: none;
   }
 }
 
 nav{
+  text-transform: uppercase;
+  background-color: $color-black;
+  font-size: 1rem;
+  line-height: 1.5rem;
   ul{
     overflow: auto;
     margin: 0;
-    padding: 0;
+    padding: .75rem 0;
   }
   li{
-    float: right;
     margin: 0;
     padding: 0;
   }
   a{
     color: $color-white;
+    display: block;
+    padding: .75rem 1.5rem;
+    &:hover{
+      background-color: lighten($color-black, 10%);
+    }
   }
 }
 
@@ -103,6 +125,32 @@ section#hotels{
   .about{
     padding: 1.5rem;
     box-sizing: border-box;
+  }
+
+  ul{
+    margin: 0 0 1.5rem 0;
+    padding: 0;
+    list-style: none;
+    li{
+      margin: 0 0 1rem 0;
+      padding: 0 0 0 1.75rem;
+      position: relative;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+    li::before{
+      font-family: 'Material Icons';
+      color: $color-green;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      position: absolute;
+      left: 0;
+    }
+    .address::before{content: 'place';}
+    .phone::before{content: 'phone';}
+    .email::before{content: 'mail';}
+    .rooms::before{content: 'hotel';}
+    .conference::before{content: 'business_center';}
   }
 }
 
@@ -181,32 +229,6 @@ p{
   font-weight: 400;
   color: $color-white;
   margin: 0 0 1.5rem 0;
-}
-
-ul{
-  margin: 0 0 1.5rem 0;
-  padding: 0;
-  list-style: none;
-  li{
-    margin: 0 0 1rem 0;
-    padding: 0 0 0 1.75rem;
-    position: relative;
-    font-size: 1rem;
-    line-height: 1.5rem;
-  }
-  li::before{
-    font-family: 'Material Icons';
-    color: $color-green;
-    font-size: 1rem;
-    line-height: 1.5rem;
-    position: absolute;
-    left: 0;
-  }
-  .address::before{content: 'place';}
-  .phone::before{content: 'phone';}
-  .email::before{content: 'mail';}
-  .rooms::before{content: 'hotel';}
-  .conference::before{content: 'business_center';}
 }
 
 @media (min-width: 640px) {

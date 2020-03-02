@@ -1,27 +1,27 @@
-- text:
-    en: All P-hotels are within short distance of restaurants, shops, city attractions, buses, trains and airport transfers.
-    no: Alle P-hoteller har kort avstand til restauranter, butikker, byens severdigheter,  buss, tog og flyplasstransport
-  img: fac-1.jpg
+- 'facility':
+  'en': All P-hotels are within short distance of restaurants, shops, city attractions, buses, trains and airport transfers.
+  'no': Alle P-hoteller har kort avstand til restauranter, butikker, byens severdigheter,  buss, tog og flyplasstransport
+  'img': fac-1.jpg
 
-- text:
-    en: Breakfast can be purchased at our reception.
-    no: Frokost kan kjøpes i vår resepsjon.
-  icon: free_breakfast
-  img: fac-2.jpg
+- 'facility':
+  'en': Breakfast can be purchased at our reception.
+  'no': Frokost kan kjøpes i vår resepsjon.
+  'icon': free_breakfast
+  'img': fac-2.jpg
 
-- text:
-    en: Our hotels are serviced 24 hours a day.
-    no: Hotellene våre er betjent 24 timer i døgnet.
-  icon: mood
-  img: fac-3.jpg
+- 'facility':
+  'en': Our hotels are serviced 24 hours a day.
+  'no': Hotellene våre er betjent 24 timer i døgnet.
+  'icon': mood
+  'img': fac-3.jpg
 
-- text:
-    en: Free wireless internet in all our hotels.
-    no: Gratis trådløst nett i alle våre hoteller.
-  icon: wifi
-  img: fac-4.jpg
+- 'facility':
+  'en': Free wireless internet in all our hotels.
+  'no': Gratis trådløst nett i alle våre hoteller.
+  'icon': wifi
+  'img': fac-4.jpg
 
-- text:
-    en: Bathroom and TV are standard.
-    no: Bad og tv er standard.
-  icon: bathtub live_tv
+- 'facility':
+  'en': Bathroom and TV are standard.
+  'no': Bad og tv er standard.
+  'icon': bathtub live_tv
