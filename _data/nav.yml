@@ -1,14 +1,11 @@
-- 'item':
-  'en': 'Our hotels'
-  'no': 'Våre hoteller'
-  'link': 'hotels'
+- en: Our hotels
+  no-nb: Våre hoteller
+  link: hotels
 
-- 'item':
-  'en': 'Facilities'
-  'no': 'Fasiliteter'
-  'link': 'facilities'
+- en: Facilities
+  no-nb: Fasiliteter
+  link: facilities
 
-- 'item':
-  'en': 'Contact us'
-  'no': 'Kontakt oss'
-  'link': 'contact'
+- en: Contact us
+  no-nb: Kontakt oss
+  link: contact

@@ -1,16 +1,16 @@
 <section id="facilities">
   {% for facility in site.data.facilities  %}
 
-    {% if facility.text and facility.icon %}
+    {% if facility.[page.lang] and facility.icon %}
       <div class="icon material-icons">
         {{ facility.icon }}
       </div>
       <div class="fac half">
-        <h3>{{ facility.text.[page.lang] }}</h3>
+        <h3>{{ facility.[page.lang] }}</h3>
       </div>
     {% else %}
       <div class="fac">
-        <h3>{{ facility.text.[page.lang] }}</h3>
+        <h3>{{ facility.[page.lang] }}</h3>
       </div>
     {% endif %}
 

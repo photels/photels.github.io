@@ -1,8 +1,11 @@
-'en':
-  'headline': Stay affordable and centrally located
-  'subheading': Get the best price by booking here on our website
-  'more': Our hotels
-'no':
-  'headline': Bo rimelig og sentralt
-  'subheading': Rimeligste pris får du ved å bestille her på våre nettsider
-  'more': Våre hoteller
+headline:
+  en: Stay affordable and centrally located
+  no-nb: Bo rimelig og sentralt
+
+subheading:
+  en: Get the best price by booking here on our website
+  no-nb: Rimeligste pris får du ved å bestille her på våre nettsider
+
+more:
+  en: Our hotels
+  no-nb: Våre hoteller

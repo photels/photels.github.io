@@ -8,7 +8,7 @@ lang: "en"
 
 {% include component-hero.html %}
 
-{% include component-hotel.html %}
+{% include component-hotels.html %}
 
 {% include component-facilities.html %}
 
