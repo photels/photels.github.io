@@ -1,0 +1,12 @@
+<header>
+  <img class="logo" src="/assets/images/photels-logo.svg">
+  <nav>
+    <ul>
+      {% for item in site.data.nav%}
+      <li>
+        <a href="#{{ item.link }}">{{ item.[page.lang] }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

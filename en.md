@@ -4,11 +4,11 @@ title: "P-Hotels - Development"
 lang: en
 ---
 
+{% include component-header.html %}
+
 {% include component-hero.html %}
 
-{% for hotel in site.data.hotels %}
-  {% include component-hotel.html content=hotel %}
-{% endfor %}
+{% include component-hotel.html %}
 
 {% include component-facilities.html %}
 

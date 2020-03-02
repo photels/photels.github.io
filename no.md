@@ -4,6 +4,8 @@ title: "P-Hotels - Development"
 lang: no
 ---
 
+{% include component-header.html %}
+
 {% include component-hero.html %}
 
 {% include component-hotel.html %}
