@@ -48,3 +48,17 @@ p{
   color: $color-black;
   margin: 0 0 1.5rem 0;
 }
+
+.button{
+  margin: 1rem 1.5rem;
+  padding: 1rem 1.5rem;
+  color: $color-black;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: $color-green;
+  
+  &:hover{
+    text-decoration: underline;
+  }
+}
