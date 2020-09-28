@@ -43,21 +43,3 @@
   email: brattora@p-hotels.no
   map-src:
   image-src: oslo.jpg
-
-- name: P-Hotels Bergen
-  id: bergen
-  en:
-    description: P-Hotels Bergen ligger sentralt plassert i Bergen sentrum. Kort vei til shopping, museum, Bryggene og restauranter. Kort vei til offentlige transportmidler og flybuss.
-    rooms: The hotel has 114 double rooms, bathroom, TV and free WI-FI
-    conference: Meeting room capacity up to 35 people
-  no-nb:
-    description: P-Hotels Bergen is located in Bergen center. Close to shopping, museum, docks and restaurants. Close to public transportation and airport bus.
-    rooms: Hotellet har 114 dobbeltrom, bad, TV og gratis WI-FI
-    conference: Møteromskapasitet opp til 35 personer
-  address: Vestre Torggate 9
-  zip: 5015
-  city: Bergen
-  phone: +47 55 21 00 00
-  email: bergen@p-hotels.no
-  map-src:
-  image-src: bergen.jpg
