@@ -19,7 +19,7 @@ body {
 
 .button{
   display: inline-block;
-  margin: 5rem;
+  margin: .5rem;
   padding: 1rem 1.5rem;
   color: $color-black;
   text-transform: uppercase;
@@ -277,8 +277,8 @@ p{
   }
   section#hero{
     img{
-      width: 12rem;
-      margin: 3rem 0;
+      width: 8rem;
+      margin: 1rem 0;
     }
   }
   section#hotels{
