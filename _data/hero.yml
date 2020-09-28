@@ -5,6 +5,14 @@ headline:
 subheading:
   en: Get the best price by booking here on our website
   no-nb: Rimeligste pris får du ved å bestille her på våre nettsider
+  
+button-trd:
+  en: Book a room in Trondheim
+  no-nb: Bestill rom i Trondheim
+  
+button-osl:
+  en: Book a room in Oslo
+  no-nb: Bestill rom i Oslo
 
 more:
   en: Our hotels
