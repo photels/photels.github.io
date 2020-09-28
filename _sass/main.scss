@@ -17,6 +17,20 @@ body {
   margin: 0;
 }
 
+.button{
+  margin: 1rem 1.5rem;
+  padding: 1rem 1.5rem;
+  color: $color-black;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: $color-green;
+  
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
 section, div{
   box-sizing: border-box;
 }
