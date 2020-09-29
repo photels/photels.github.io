@@ -1,7 +1,7 @@
 ---
 layout: text
 title: "P-Hotels - Personvern"
-lang: nor
+lang: "no-nb"
 ---
 
 # Retningslinjer for personvern
@@ -30,22 +30,16 @@ P-Hotels ønsker til enhver tid å følge gjeldende regelverk for personvern. Om
 
 ## P-Hotels Brattøra
 
-FOSENKAIA 7
-7010 TRONDHEIM
-Telefon: +47 80 04 68 35
+FOSENKAIA 7  
+7010 TRONDHEIM  
+Telefon: +47 80 04 68 35  
 E-post: brattora@p-hotels.no
 
 ## P-Hotels Oslo
 
-GRENSEN 19
-0159 OSLO
-Telefon: +47 23 31 80 00
+GRENSEN 19  
+0159 OSLO  
+Telefon: +47 23 31 80 00  
 E-post: oslo@p-hotels.no
 
-## P-Hotels Bergen
-
-VESTRE TORGGT. 9
-5015 BERGEN
-Telefon: +47 55 21 00 00
-E-post: bergen@p-hotels.no
-Gå til forsiden
+[Gå tilbake](/)
