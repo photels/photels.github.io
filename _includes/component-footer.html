@@ -1,10 +1,17 @@
 <footer>
-  <img class="logo" src="/assets/images/photels-logo.svg">
-  <ul>
-  {% for hotel in site.data.hotels %}
-    <li>
-      <a href="mailto:{{ hotel.email }}">{{ hotel.email }}</a>
-    </li>
-  {% endfor %}
-  </ul>
+  <div>
+    <img class="logo" src="/assets/images/photels-logo.svg">
+  </div>
+  <div>
+    <ul>
+    {% for hotel in site.data.hotels %}
+      <li>
+        <a href="mailto:{{ hotel.email }}">{{ hotel.email }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+  <div>
+    <a href="{{site.data.hero.privacy.url.[page.lang]}}" class="">{{site.data.hero.privacy.text.[page.lang]}}</a><br>
+  </div>
 </footer>

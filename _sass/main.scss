@@ -206,21 +206,34 @@ footer{
   padding: 1.5rem;
   background-color: $color-black;
   color: $color-white;
+  overflow: hidden;
+  font-size: 1rem;
+  line-height: 1.5rem;
+
+  > div{
+    width: calc(100% / 3);
+    float: left;
+    padding: 1.5rem 0;
+    text-align: center;
+  }
 
   .logo{
-    width: 3rem;
-    margin: 1.5rem 0;
+    height: 3rem;
+    margin: auto;
+    display: block;
   }
+
   ul{
+    margin: 0;
+    padding: 0;
     li{
-      padding: 0;
-      text-transform: uppercase;
-      font-size: .75rem;
-      line-height: 1rem;
-      a{
-        color: $color-white;
-      }
+      list-style: none;
     }
+  }
+
+  a{
+    margin: 1.5rem 0;
+    color: $color-white;
   }
 }
 
@@ -259,6 +272,10 @@ p{
 @media (max-width: 767px) {
   nav{
     display: none;
+  }
+  footer > div{
+    width: 100%;
+    float: none;
   }
 }
 
