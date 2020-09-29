@@ -5,6 +5,9 @@
     text:
       en: Book now
       no-nb: Bestill nå
+    text-long:
+      en: Book a room in Trondheim
+      no-nb: Bestill rom i Trondheim
   en:
     description: P-Hotels Brattøra is centrally located at Trondheim Central Station, public transport and the airport bus. The hotel is within short walking distance to shopping and sights. Great views of the city and the Trondheim Fjord.
     rooms: The hotel has 128 double rooms, bathroom, TV and free WI-FI
@@ -28,6 +31,9 @@
     text:
       en: Book now
       no-nb: Bestill nå
+    text-long:
+      en: Book a room in Oslo
+      no-nb: Bestill rom i Oslo
   en:
     description: P-hotels Oslo is located in Oslo city center. The Hotels is close to shopping, Karl Johans gate, Aker Brygge and city sights. Public transportation and the airport bus to Oslo Airport Gardermoen is right nearby.
     rooms: The hotel has 128 double rooms, bathroom, TV and free WI-FI
@@ -39,7 +45,7 @@
   address: Grensen 19
   zip: 0159
   city: Oslo
-  phone: +47 73 60 40 05
-  email: brattora@p-hotels.no
+  phone: +47 23 31 80 00
+  email: oslo@p-hotels.no
   map-src:
   image-src: oslo.jpg
