@@ -1,10 +1,15 @@
 ---
 layout: default
 title: "P-Hotels - Development"
+lang: "no-nb"
 ---
 
-## Under development
+{% include component-header.html %}
 
-This site is under development.
+{% include component-hero.html %}
 
-If you are looking for the P-Hotels website, please use [p-hotels.no](http://p-hotels.no/)
+{% include component-hotels.html %}
+
+{% include component-facilities.html %}
+
+{% include component-footer.html %}
