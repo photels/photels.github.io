@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "P-Hotels - Development"
+title: "P-Hotels"
 lang: "no-nb"
 ---
 
