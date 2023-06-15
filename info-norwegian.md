@@ -47,13 +47,13 @@ Hotellet har parkering som kan reserveres i resepsjonen.
 Vår takterrasse er for tiden under ombygging og er stengt for gjester under ombyggingen.
        
 ## Annen informasjon
-Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
-P-Hotels Brattøra et et kontantfritt hotell. Alle betalinger må gjennomføres med kort.  
-Det er ikke tillatt med besøk på rommet.  
-Det er ikke tillatt med fest på rommet.  
-Fra kl. 23:00 til kl. 07:00 skal det være ro på hotellet.  
-Inngangsdøren låses kl. 24:00, men en resepsjonist er alltid på vakt og kan slippe deg inn.  
-Vårt hotell er kameraovervåket.
+- Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
+- P-Hotels Brattøra et et kontantfritt hotell. Alle betalinger må gjennomføres med kort.  
+- Det er ikke tillatt med besøk på rommet.  
+- Det er ikke tillatt med fest på rommet.  
+- Fra kl. 23:00 til kl. 07:00 skal det være ro på hotellet.  
+- Inngangsdøren låses kl. 24:00, men en resepsjonist er alltid på vakt og kan slippe deg inn.  
+- Vårt hotell er kameraovervåket.
 
 ### Fasiliteter i nærheten (Google Maps)  
 [Nærmeste holdeplass for flybussen](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)  
