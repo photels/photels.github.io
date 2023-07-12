@@ -11,18 +11,21 @@ lang: "no-nb"
 
 ## Frokost
 En frokostpakke kan forhåndskjøpes før kl. 23.00 i resepsjonen.  
-Frokostpakken inkluderer valgfri juice og kaffe, og man kan velge mellom:
+Vi tilbyr tre ulike frokostpakker: 
 
 1. Matpakke
 2. Croissant
 3. Yoghurt med müsli
 
+Alle frokostpakkene inkluderer valgfri juice og kaffe.
 Frokosten kan hentes på valgfritt tidspunkt i resepsjonen på morgenen.
 
 ## Resepsjonsbutikk
 Snacks, mineralvann, ulike matprodukter, og hygieneprodukter kan kjøpes i resepsjonen hele dagen.  
 Øl og vin kan kjøpes i resepsjonen frem til kl. 02.00.  
+
 Ved kjøp på rom kan du bestille via vår [nettbutikk](https://favrit.com/nb-no/menu/location/L5q8gazxmA1), og produktene hentes i resepsjonen.  
+Varer kan også kjøpes igjennom egen QR-kode. 
     
 ## Internett
 Nettverksnavn / SSID: `Guest-Brattora`  
@@ -44,7 +47,8 @@ Hotellet har parkering som kan reserveres i resepsjonen.
 [Vis nærmeste parkeringshus i Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
 ## Takterrasse
-Vår takterrasse er for tiden under ombygging og er stengt for gjester under ombyggingen.
+Vår takterrasse er for tiden under ombygging, all drikke må kjøpes igjennom hotellet.
+Man kan ikke ha med medbrakt drikke på takterrassen. 
        
 ## Annen informasjon
 - Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
