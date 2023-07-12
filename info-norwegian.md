@@ -47,8 +47,9 @@ Hotellet har parkering som kan reserveres i resepsjonen.
 [Vis nærmeste parkeringshus i Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
 ## Takterrasse
-Vår takterrasse er for tiden under ombygging, all drikke må kjøpes igjennom hotellet.
-Man kan ikke ha med medbrakt drikke på takterrassen. 
+Vår takterrasse er for tiden under ombygging. 
+
+All drikke må kjøpes igjennom hotellet og man kan dermed ikke ha med medbrakt drikke. 
        
 ## Annen informasjon
 - Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
