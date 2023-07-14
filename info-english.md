@@ -53,7 +53,7 @@ The renovations include walls and a roof on the terrasse, so that it can be open
 It is not allowed to bring your own alcohol up to the roof terrasse. 
        
 ## Other information
-- There are incurred fee on 1500,- NOK if prohibition is not observed.  
+- This is a smokeless hotell, there are incurred fee on 1500,- NOK if prohibition is not followed
 - P-Hotels Brattøra is a cashless hotel. All payments must be through card.  
 - Visitors are not allowed in the room.  
 - Parties are not allowed in the room.  
