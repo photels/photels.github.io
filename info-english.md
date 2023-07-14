@@ -51,20 +51,20 @@ Our terrace is currently under renovation and partly open for guest.
 The renovations include walls and a roof on the terrasse, so that it can be open during the whole year. 
 
 It is not allowed to bring your own alcohol up to the roof terrasse. 
-       
-## Other information
-- This is a smokeless hotell, there are incurred fee on 1500,- NOK if prohibition is not followed
-- P-Hotels Brattøra is a cashless hotel. All payments must be through card.  
-- Visitors are not allowed in the room.  
-- Parties are not allowed in the room.  
-- Starting at 23:00 to 07:00 the hotel must be quiet.  
-- The entrance door is locked at 24:00, but a receptionist is always on duty and can let you in.  
-- The hotel is under camera surveillance.
 
 ### Nearby facilities (Google Maps)  
 [Closest airport bus stop](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)  
 [Closest supermarket](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)  
 [Closest parking garage](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
+
+       
+## Other information
+- This is a smokeless hotell, there are incurred fee on 1500,- NOK if prohibition is not followed.
+- P-Hotels Brattøra is a cashless hotel. All payments must be through card.  
+- Parties are not allowed in the room and the hotel must be quiet from 23.00 - 07.00.  
+- The entrance door is locked from 24:00, but a receptionist is always on duty and can let you in.  
+- The hotel is under camera surveillance.
+
 
 ## Contact
 
