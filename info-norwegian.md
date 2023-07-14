@@ -42,33 +42,32 @@ P-Hotels Brattøra er miljøsertifisert, og for å minske vår miljøavtrykkk re
 
 ## Utsjekk
 Vår utsjekkstid er kl. 12:00 på avreisedagen.  
-Ved avreise senere enn dette, belaster vi 100,- pr. time.
+Ønsker du senere avreise senere enn dette vennligst ta kontakt med resepsjonen. Vi belaster kr. 100,- pr. time.
 
 ## Parkering
 Hotellet har parkering som kan reserveres i resepsjonen.  
 [Vis nærmeste parkeringshus i Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
 ## Takterrasse
-Vår takterrasse er for tiden under ombygging. 
+Vår takterrasse er for tiden under ombygging og er delvis åpen for gjester.
+Vi innglasserer takterrassen vår i vegger og tak, og vårt mål er å kunne ha den åpen hele året.
 
-All drikke må kjøpes igjennom hotellet og man kan dermed ikke ha med medbrakt drikke. 
-       
-## Annen informasjon
-P-Hotels Brattøra er miljøsertifisert og ønsker større fokus på miljøetvennlige valg.
-Vennligst kildesorter når dere er i fellesarealene
-
-- Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
-- P-Hotels Brattøra et et kontantfritt hotell. Alle betalinger må gjennomføres med kort.  
-- Det er ikke tillatt med besøk på rommet.  
-- Det er ikke tillatt med fest på rommet.  
-- Fra kl. 23:00 til kl. 07:00 skal det være ro på hotellet.  
-- Inngangsdøren låses kl. 24:00, men en resepsjonist er alltid på vakt og kan slippe deg inn.  
-- Vårt hotell er kameraovervåket.
+Gjester kan ikke ha med egen medbrakt drikke på takterrassen. 
 
 ### Fasiliteter i nærheten (Google Maps)  
 [Nærmeste holdeplass for flybussen](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)  
 [Nærmeste daglivareforretning](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)  
 [Nærmeste parkeringshus](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
+
+## Annen informasjon
+P-Hotels Brattøra er miljøsertifisert og vi ønsker større fokus på miljøetvennlige valg.
+Vennligst hjelp oss kildesorter avfall når du er i fellesarealene og på rommet.
+
+- Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
+- P-Hotels Brattøra et et kontantfritt hotell. Alle betalinger må gjennomføres med kort.  
+- Det er ikke tillatt med fest på rommet og fra kl. 23:00 til kl. 07:00 skal det være ro på hotellet.  
+- Inngangsdøren låses kl. 24:00, men en resepsjonist er alltid på vakt og kan slippe deg inn.  
+- Vårt hotell er kameraovervåket.
 
 ## Kontakt
 
