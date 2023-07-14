@@ -10,13 +10,15 @@ lang: "en"
 *[Trykk her for norsk versjon](/info-norwegian)*
 
 ## Breakfast
-A breakfast package can be pre-purchased before 23:00 at the reception.  
-The breakfast package includes juice of your choice and coffee/tea, and you can choose between:
+A breakfast package can be pre-purchased in the reception. 
+Please contact the reception the night before to reserve a breakfast package.  
 
+You can choose between the following breakfast packages: 
 1. Packed lunch – Bread with cheese and eggs
 2. Croissant
 3. Yoghurt with müsli
 
+All three packages includes juice of your choice and coffee/tea.
 The breakfast can be picked up in the reception at any time in the morning.
 
 ## Reception shop
@@ -29,8 +31,8 @@ Network name / SSID: `Guest-Brattora`
 Password: `photels@trondheim`
 
 ## Fire alarm
-In case of alarm you have to leave your room immediately.  
-Please check the fire safety poster in you room for the nearest emergency exit.
+In case of a fire alarm you have to leave your room immediately.  
+Please consult the fire safety poster in you room for the nearest emergency exit.
 
 ## Housekeeping
 If you wish to have your room cleaned during your stay, please contact the reception before 22:00 the day before.
@@ -40,11 +42,15 @@ Our check-out time is 12:00 on the day of departure.
 For departures later than this, we charge NOK 100 per hour.
 
 ## Parking
-The hotel has limited parking space that can be reserved in the reception.  
+The hotel has limited parking space that can be reserved in the reception. 
 [Show closest parking garage in Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
 ## Roof terrace
-Our terrace is currently under renovation and is temporarily closed for guests.
+There is a roof terrasse on the third floor of the hotel.
+Our terrace is currently under renovation and partly open for guest.
+The renovations include walls and a roof on the terrasse, so that it can be open during the whole year. 
+
+It is not allowed to bring your own alcohol up to the roof terrasse. 
        
 ## Other information
 - There are incurred fee on 1500,- NOK if prohibition is not observed.  
