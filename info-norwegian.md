@@ -9,6 +9,7 @@ lang: "no-nb"
 # Velkommen til P-Hotels Brattøra
 *[Click here for english version](/info-english)*
 
+
 ## Frokost
 En frokostpakke kan forhåndskjøpes før kl. 23.00 i resepsjonen.  
 Vi tilbyr tre ulike frokostpakker: 
@@ -36,6 +37,7 @@ Ved brannalarm blir du varslet med høy klokkeringing og man må rommet forlate 
 Vennligst orienter deg ved branntavlen inne på rommet hvor nærmeste nødutgang er.  
 
 ## Housekeeping
+P-Hotels Brattøra er miljøsertifisert, og for å minske vår miljøavtrykkk rengjør vi ikke rommene automatisk mens du bor her.
 Ønsker du rengjøring av rom under ditt opphold, vennligst ta kontakt med resepsjonen før kl. 22:00 dagen før.
 
 ## Utsjekk
@@ -52,6 +54,9 @@ Vår takterrasse er for tiden under ombygging.
 All drikke må kjøpes igjennom hotellet og man kan dermed ikke ha med medbrakt drikke. 
        
 ## Annen informasjon
+P-Hotels Brattøra er miljøsertifisert og ønsker større fokus på miljøetvennlige valg.
+Vennligst kildesorter når dere er i fellesarealene
+
 - Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
 - P-Hotels Brattøra et et kontantfritt hotell. Alle betalinger må gjennomføres med kort.  
 - Det er ikke tillatt med besøk på rommet.  
