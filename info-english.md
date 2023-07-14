@@ -35,11 +35,12 @@ In case of a fire alarm you have to leave your room immediately.
 Please consult the fire safety poster in you room for the nearest emergency exit.
 
 ## Housekeeping
+P-Hotels Brattøra is a enviromentally certified hotel. To reduce our enviromental impact we do not automatically clean your room while you stay here. 
 If you wish to have your room cleaned during your stay, please contact the reception before 22:00 the day before.
 
 ## Check-out
 Our check-out time is 12:00 on the day of departure.  
-For departures later than this, we charge NOK 100 per hour.
+For departures later than this please contact the reception. We charge NOK 100 per hour.
 
 ## Parking
 The hotel has limited parking space that can be reserved in the reception. 
@@ -47,8 +48,8 @@ The hotel has limited parking space that can be reserved in the reception.
 
 ## Roof terrace
 There is a roof terrasse on the third floor of the hotel.
-Our terrace is currently under renovation and partly open for guest.
-The renovations include walls and a roof on the terrasse, so that it can be open during the whole year. 
+Our terrace is currently under renovation and is partly open for our guest.
+The renovations include walls and a roof on the terrasse, and our goal is to be able to have our roof terrasse open year round.
 
 It is not allowed to bring your own alcohol up to the roof terrasse. 
 
