@@ -47,10 +47,7 @@ The hotel has limited parking space that can be reserved in the reception.
 [Show closest parking garage in Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
 ## Roof terrace
-There is a roof terrasse on the third floor of the hotel.
-Our terrace is currently under renovation and is partly open for our guest.
-The renovations include walls and a roof on the terrasse, and our goal is to be able to have our roof terrasse open year round.
-
+Our terrace is currently under renovation and is closed for guest.
 It is not allowed to bring your own alcohol up to the roof terrasse. 
 
 ### Nearby facilities (Google Maps)  
