@@ -49,8 +49,7 @@ Hotellet har parkering som kan reserveres i resepsjonen.
 [Vis nærmeste parkeringshus i Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
 ## Takterrasse
-Vår takterrasse er for tiden under ombygging og er delvis åpen for gjester.
-Vi innglasserer takterrassen vår i vegger og tak, og vårt mål er å kunne ha den åpen hele året.
+Vår takterrasse er for tiden under ombygging og er stengt for gjester
 
 Gjester kan ikke ha med egen medbrakt drikke på takterrassen. 
 
