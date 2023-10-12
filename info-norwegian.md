@@ -49,7 +49,9 @@ Hotellet har parkering som kan reserveres i resepsjonen.
 [Vis nærmeste parkeringshus i Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
 ## Takterrasse
-Vår takterrasse er for tiden under ombygging og er stengt for gjester
+Ta en tur innom vår innglasserte takterrasse i 3. etasje. Derfra har man utsikt over fjorde, byen, munkholmen, festningen, nidarosdomen og den fantastiske bryggen i Trondheim. 
+
+Nyt utsikten med noe godt å drikke på!
 
 Gjester kan ikke ha med egen medbrakt drikke på takterrassen. 
 
