@@ -10,7 +10,7 @@ lang: "no-nb"
 *[Click here for english version](/info-english)*
 
 ## Takterrasse
-Ta en tur innom vår innglasserte takterrasse i 3. etasje. Derfra har man utsikt over fjorde, byen, munkholmen, festningen, nidarosdomen og den fantastiske bryggen i Trondheim. 
+Ta en tur innom vår innglasserte takterrasse i 3. etasje. Derfra har man utsikt over fjorden, byen, munkholmen, festningen, nidarosdomen og den fantastiske bryggen i Trondheim. 
 
 Nyt utsikten med noe godt å drikke på!
 
@@ -65,7 +65,7 @@ Vennligst hjelp oss kildesorter avfall når du er i fellesarealene og på rommet
 
 - Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
 - P-Hotels Brattøra et et kontantfritt hotell. Alle betalinger må gjennomføres med kort.  
-- Det er ikke tillatt med fest på rommet og fra kl. 23:00 til kl. 07:00 skal det være ro på hotellet.  
+- Det er ikke tillatt med fest på rommet. Fra kl. 23:00 til kl. 07:00 skal det være ro på hotellet.  
 - Inngangsdøren låses kl. 24:00, men en resepsjonist er alltid på vakt og kan slippe deg inn.  
 - Vårt hotell er kameraovervåket.
 
