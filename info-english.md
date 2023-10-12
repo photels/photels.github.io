@@ -10,7 +10,7 @@ lang: "en"
 *[Trykk her for norsk versjon](/info-norwegian)*
 
 ## Roof terrace
-Drop by our built-in roof terrace at the 3rd floor. From our terrace we have an amazing view over the fjord, Munkholmen, the fortress, Nidarosdomen and the amazing pier in Trondheim.
+Drop by our built-in roof terrace at the 3rd floor. From our terrace we have an amazing view over the city, fjord, Munkholmen, fortress, Nidarosdomen and the amazing pier in Trondheim.
 
 Enjoy all of this in the warmth with something good to drink. 
 
