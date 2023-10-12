@@ -9,6 +9,12 @@ lang: "no-nb"
 # Velkommen til P-Hotels Brattøra
 *[Click here for english version](/info-english)*
 
+## Takterrasse
+Ta en tur innom vår innglasserte takterrasse i 3. etasje. Derfra har man utsikt over fjorde, byen, munkholmen, festningen, nidarosdomen og den fantastiske bryggen i Trondheim. 
+
+Nyt utsikten med noe godt å drikke på!
+
+Gjester kan ikke ha med egen medbrakt drikke på takterrassen. 
 
 ## Frokost
 En frokostpakke kan forhåndskjøpes før kl. 23.00 i resepsjonen.  
@@ -47,13 +53,6 @@ Vår utsjekkstid er kl. 12:00 på avreisedagen.
 ## Parkering
 Hotellet har parkering som kan reserveres i resepsjonen.  
 [Vis nærmeste parkeringshus i Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
-
-## Takterrasse
-Ta en tur innom vår innglasserte takterrasse i 3. etasje. Derfra har man utsikt over fjorde, byen, munkholmen, festningen, nidarosdomen og den fantastiske bryggen i Trondheim. 
-
-Nyt utsikten med noe godt å drikke på!
-
-Gjester kan ikke ha med egen medbrakt drikke på takterrassen. 
 
 ### Fasiliteter i nærheten (Google Maps)  
 [Nærmeste holdeplass for flybussen](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)  
