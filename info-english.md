@@ -9,6 +9,14 @@ lang: "en"
 # Welcome to P-Hotels Brattøra
 *[Trykk her for norsk versjon](/info-norwegian)*
 
+## Roof terrace
+Drop by our built-in roof terrace at the 3rd floor. From our terrace we have an amazing view over the fjord, Munkholmen, the fortress, Nidarosdomen and the amazing pier in Trondheim.
+
+Enjoy all of this in the warmth with something good to drink. 
+
+It is not allowed to bring your own alcohol up to the roof terrasse. 
+
+
 ## Breakfast
 A breakfast package can be pre-purchased in the reception. 
 Please contact the reception the night before to reserve a breakfast package.  
@@ -46,9 +54,6 @@ For departures later than this please contact the reception. We charge NOK 100 p
 The hotel has limited parking space that can be reserved in the reception. 
 [Show closest parking garage in Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
-## Roof terrace
-Our terrace is currently under renovation and is closed for guest.
-It is not allowed to bring your own alcohol up to the roof terrasse. 
 
 ### Nearby facilities (Google Maps)  
 [Closest airport bus stop](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)  
