@@ -1,6 +1,6 @@
 ---
 layout: text
-title: "P-Hotels - Personvern"
+title: "P-Hotels Brattøra information"
 lang: "en"
 ---
 
