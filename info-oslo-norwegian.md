@@ -22,7 +22,7 @@ Frokosten kan hentes på valgfritt tidspunkt i resepsjonen på morgenen.
 
 ## Resepsjonsbutikk
 Snacks, mineralvann, ulike matprodukter, og hygieneprodukter kan kjøpes i resepsjonen hele dagen.  
-Øl og vin kan kjøpes i resepsjonen frem til kl. 02.00.  
+Øl og vin kan kjøpes i resepsjonen frem til kl. 00.30.  
 
     
 ## Internett
