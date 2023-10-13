@@ -24,7 +24,7 @@ The breakfast can be picked up in the reception at any time in the morning.
 
 ## Reception shop
 Snacks, mineral water, various foods, and hygiene products can be purchased in the reception throughout the day.  
-Beer and wine can be purchased in the reception until 01:00 in the morning.  
+Beer and wine can be purchased in the reception until 00:30 in the morning.  
     
 ## Wifi
 We have free wifi at the hotel. You can get an access code in the reception. 
