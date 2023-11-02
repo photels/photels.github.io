@@ -41,21 +41,25 @@ If you wish to have your room cleaned during your stay, please contact the recep
 Our check-out time is 12:00 on the day of departure.  
 For departures later than this please contact the reception. We charge NOK 100 per hour, latest chekout is 14.00.
 
+The hotel has a locked luggage room. Please contact the reception for an entry/exit recepit.
+
 ## Parking
 The closest parking garage is OnePark sentrum. 
 [Show closest parking garage in Google Maps](https://goo.gl/maps/7Zoa8xpc1VuATjaL8)
 
 
 ## Transport (Google Maps)  
-[The closest subway stop is Stortinget](https://maps.app.goo.gl/VrcF5UJxrzCTHfiE8)  
+[The closest subway stop is Stortinget](https://maps.app.goo.gl/VrcF5UJxrzCTHfiE8) 
+The closest tram stop is Tinghuset.
 
        
 ## Other information
 P-Hotels Oslo wishes to reduce our environmental impact and we ask if you can help us recycle in the common areas while you are at the hotel.
-- This is a smokeless hotell, there are incurred fee on 1500,- NOK if prohibition is not followed.
-- P-Hotels Oslo is a cashless hotel. All payments must be through card.  
-- Parties are not allowed in the room and the hotel must be quiet from 23.00 - 07.00. It is not allowed with guests in the period.  
-- The entrance door is locked from 24:00, but a receptionist is always on duty and can let you in.  
+- This is a non-smoking hotell. A fee of NOK 1500,- will be charged if you smoke inside.
+- P-Hotels Oslo is a cashless hotel. All payments must be with card.  
+- Parties are not allowed in the room.
+- The hotel must be quiet from 23.00 - 07.00. It is not allowed with guests in that period.  
+- The entrance door is locked from 23:00, but a receptionist is always on duty and can let you in.  
 - The hotel has camera surveillance.
 
 
