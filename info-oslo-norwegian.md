@@ -29,7 +29,7 @@ Snacks, mineralvann, ulike matprodukter, og hygieneprodukter kan kjøpes i resep
 Vi har gratis internett på hotellet. Nettverksinformasjon kan hentes i resepsjonen. 
 
 ## Brannalarm
-Ved brannalarm blir du varslet med høy klokkeringing og man må rommet forlate umiddelbart.  
+Ved brannalarm blir du varslet med høy klokkeringing og man må forlate rommet umiddelbart.  
 Vennligst orienter deg ved branntavlen inne på rommet hvor nærmeste nødutgang er.  
 
 ## Housekeeping
@@ -38,7 +38,7 @@ P-Hotels Oslo har fokus på miljøet og for å minske vår miljøavtrykkk rengj�
 
 ## Utsjekk
 Vår utsjekkstid er kl. 12:00 på avreisedagen.  
-Ønsker du senere avreise senere enn dette vennligst ta kontakt med resepsjonen. Vi belaster kr. 100,- pr. time.
+Ønsker du senere avreise enn dette vennligst ta kontakt med resepsjonen. Vi belaster kr. 100,- pr. time.
 Seneste utskjekk er kl. 14.00
 Ved behov har hotellet ett låst bagasjerom i lobbyen. Vennligst kontakt resepsjonen for inn/utkvittering.
 
@@ -47,7 +47,8 @@ Nærmeste parkerings hus er OnePark Sentrum.
 [Vis nærmeste parkeringshus i Google Maps](https://maps.app.goo.gl/3h7B4CF1D79N3BiR9)
 
 ### Fasiliteter i nærheten (Google Maps)  
-[Nærmeste t-banestasjon er Stortinget](https://maps.app.goo.gl/UZbKeo2PUJJxSxtH8)  
+[Nærmeste t-banestasjon er Stortinget](https://maps.app.goo.gl/UZbKeo2PUJJxSxtH8) 
+Nærmeste trikke stopp er tinghuset
 
 ## Annen informasjon
 P-Hotels Oslo har fokus på miljø og vi ønsker større fokus på miljøvennlige valg. 
@@ -56,7 +57,7 @@ Vennligst hjelp oss kildesorter avfall når du er i fellesarealene og på rommet
 - Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
 - P-Hotels Oslo et et kontantfritt hotell. Alle betalinger må gjennomføres med kort.  
 - Det er ikke tillatt med fest på rommet. Fra kl. 23:00 til kl. 07:00 skal det være ro på hotellet. Det er ikke tillatt med besøk i denne perioden
-- Inngangsdøren låses kl. 24:00, men en resepsjonist er alltid på vakt og kan slippe deg inn.  
+- Inngangsdøren låses kl. 23:00, men en resepsjonist er alltid på vakt og kan slippe deg inn.  
 - Vårt hotell har kameraovervåkning.
 
 ## Kontakt
