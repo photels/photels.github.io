@@ -15,7 +15,7 @@ Vi tilbyr tre ulike frokostpakker:
 
 1. Matpakke - 1 sandwich med egg og 1 med ost
 2. Croissant
-3. Yoghurt med müsli
+3. Yoghurt med granola
 
 Alle frokostpakkene inkluderer valgfri juice og svart kaffe.
 Frokosten kan hentes på valgfritt tidspunkt i resepsjonen fra kl. 06.00 på morgenen.
@@ -37,9 +37,8 @@ P-Hotels Oslo har fokus på miljøet og for å minske vår miljøavtrykkk rengj�
 Ønsker du lett rengjøring av rommet under ditt opphold, vennligst ta kontakt med resepsjonen før kl. 22:00 dagen før.
 
 ## Utsjekk
-Vår utsjekkstid er kl. 12:00 på avreisedagen.  
+Vår utsjekkstid er kl. 12:00 på avreisedagen. Seneste utsjekk er kl. 14.00
 Ønsker du senere avreise enn dette vennligst ta kontakt med resepsjonen. Vi belaster kr. 100,- pr. time.
-Seneste utskjekk er kl. 14.00
 Ved behov har hotellet ett låst bagasjerom i lobbyen. Vennligst kontakt resepsjonen for inn/utkvittering.
 
 ## Parkering
@@ -48,10 +47,10 @@ Nærmeste parkerings hus er OnePark Sentrum.
 
 ### Fasiliteter i nærheten (Google Maps)  
 [Nærmeste t-banestasjon er Stortinget](https://maps.app.goo.gl/UZbKeo2PUJJxSxtH8) 
-Nærmeste trikke stopp er tinghuset
+Nærmeste trikkestopp er tinghuset
 
 ## Annen informasjon
-P-Hotels Oslo har fokus på miljø og vi ønsker større fokus på miljøvennlige valg. 
+P-Hotels Oslo har fokus på miljø og vi ønsker å minske vårt miljøavtrykkk.
 Vennligst hjelp oss kildesorter avfall når du er i fellesarealene og på rommet.
 
 - Hotellet er røykfritt og det påløpet et gebyr på kr. 1500,- hvis forbudet ikke overholdes.  
