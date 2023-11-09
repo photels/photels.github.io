@@ -15,9 +15,9 @@ A breakfast package can be pre-purchased in the reception.
 Please contact the reception the night before to reserve a breakfast package.  
 
 You can choose between the following breakfast packages: 
-1. Packed lunch – Sandiwch with cheese and egg
+1. Packed lunch – Sandwich with cheese and egg
 2. Croissant
-3. Yoghurt with müsli
+3. Yoghurt with granola
 
 All three packages includes juice of your choice and black coffee/tea.
 The breakfast can be picked up in the reception at any time from 06.00 in the morning.
@@ -55,8 +55,8 @@ The closest tram stop is Tinghuset.
        
 ## Other information
 P-Hotels Oslo wishes to reduce our environmental impact and we ask if you can help us recycle in the common areas while you are at the hotel.
-- This is a non-smoking hotell. A fee of NOK 1500,- will be charged if you smoke inside.
-- P-Hotels Oslo is a cashless hotel. All payments must be with card.  
+- This is a non-smoking hotel. A fee of NOK 1500,- will be charged if you smoke inside.
+- P-Hotels Oslo is a cashfree hotel. All payments must be with card.  
 - Parties are not allowed in the room.
 - The hotel must be quiet from 23.00 - 07.00. It is not allowed with guests in that period.  
 - The entrance door is locked from 23:00, but a receptionist is always on duty and can let you in.  
