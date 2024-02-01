@@ -27,7 +27,7 @@
 - name: P-Hotels Oslo
   id: oslo
   booking:
-    url: https://booking.visbook.com/45
+    url: https://reservations.visbook.com/371
     text:
       en: Book now
       no-nb: Bestill nå
