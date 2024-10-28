@@ -17,3 +17,11 @@ privacy:
   url:
     en: privacy
     no-nb: personvern
+
+eco-lighthouse:
+  text:
+    en: Eco-lighthouse
+    no-nb: Miljøfyrtårn
+  url:
+    en: eco-lighthouse
+    no-nb: eco-lighthouse
