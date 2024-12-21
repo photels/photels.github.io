@@ -24,28 +24,28 @@
   map-src:
   image-src: brattora.jpg
 
-- name: P-Hotels Oslo
-  id: oslo
-  booking:
-    url: https://reservations.visbook.com/371
-    text:
-      en: Book now
-      no-nb: Bestill nå
-    text-long:
-      en: Book a room in Oslo
-      no-nb: Bestill rom i Oslo
-  en:
-    description: P-hotels Oslo is located in Oslo city center. The Hotels is close to shopping, Karl Johans gate, Aker Brygge and city sights. Public transportation and the airport bus to Oslo Airport Gardermoen is right nearby.
-    rooms: The hotel has 128 double rooms, bathroom, TV and free WI-FI
-    conference: Meeting room capacity consists of 3 meeting rooms up to a maximum of 150 people, an event restaurant and a roof terrace
-  no-nb:
-    description: P-Hotels Oslo ligger midt i Oslo sentrum. Det er kort vei til shopping, Karl Johans gate, Aker Brygge og byens severdigheter. Offentlig kommunikasjon og flybuss til Oslo Lufthavn Gardemoen er rett i nærheten.
-    rooms: Hotellet har 128 dobbeltrom, bad, TV og gratis WI-FI
-    conference: Møteromskapasitet består av 3 møterom opp til maks 150 personer, arrangement restaurant og takterrasse
-  address: Grensen 19
-  zip: 0159
-  city: Oslo
-  phone: +47 23 31 80 00
-  email: oslo@p-hotels.no
-  map-src:
-  image-src: oslo.jpg
+#- name: P-Hotels Oslo
+#  id: oslo
+#  booking:
+#    url: https://reservations.visbook.com/371
+#    text:
+#      en: Book now
+#      no-nb: Bestill nå
+#    text-long:
+#      en: Book a room in Oslo
+#      no-nb: Bestill rom i Oslo
+#  en:
+#    description: P-hotels Oslo is located in Oslo city center. The Hotels is close to shopping, Karl Johans gate, Aker Brygge and city sights. Public transportation and the airport bus to Oslo Airport Gardermoen is right nearby.
+#    rooms: The hotel has 128 double rooms, bathroom, TV and free WI-FI
+#    conference: Meeting room capacity consists of 3 meeting rooms up to a maximum of 150 people, an event restaurant and a roof terrace
+#  no-nb:
+#    description: P-Hotels Oslo ligger midt i Oslo sentrum. Det er kort vei til shopping, Karl Johans gate, Aker Brygge og byens severdigheter. Offentlig kommunikasjon og flybuss til Oslo Lufthavn Gardemoen er rett i nærheten.
+#    rooms: Hotellet har 128 dobbeltrom, bad, TV og gratis WI-FI
+#    conference: Møteromskapasitet består av 3 møterom opp til maks 150 personer, arrangement restaurant og takterrasse
+#  address: Grensen 19
+#  zip: 0159
+#  city: Oslo
+#  phone: +47 23 31 80 00
+#  email: oslo@p-hotels.no
+#  map-src:
+#  image-src: oslo.jpg
