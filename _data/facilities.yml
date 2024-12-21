@@ -1,5 +1,5 @@
-- en: All P-hotels are within short distance of restaurants, shops, city attractions, buses, trains and airport transfers.
-  no-nb: Alle P-hoteller har kort avstand til restauranter, butikker, byens severdigheter,  buss, tog og flyplasstransport
+- en: Short distance of restaurants, shops, city attractions, buses, trains and airport transfers.
+  no-nb: Kort avstand til restauranter, butikker, byens severdigheter,  buss, tog og flyplasstransport
   img: fac-1.jpg
 
 - en: Breakfast can be purchased at our reception.
@@ -7,8 +7,8 @@
   icon: free_breakfast
   img: fac-2.jpg
 
-- en: Our hotels are serviced 24 hours a day.
-  no-nb: Hotellene våre er betjent<br>24 timer i døgnet.
+- en: Serviced 24 hours a day.
+  no-nb: Betjent 24 timer i døgnet.
   icon: mood
   img: fac-3.jpg
 
@@ -18,5 +18,5 @@
   img: fac-4.jpg
 
 - en: Bathroom and TV are standard.
-  no-nb: Bad og tv<br>er standard.
+  no-nb: Bad og tv er standard.
   icon: bathtub live_tv
