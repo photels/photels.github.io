@@ -1,7 +1,7 @@
 - name: P-Hotels Brattøra
   id: brattora
   booking:
-    url: https://booking.visbook.com/369
+    url: https://reservations.visbook.com/369
     text:
       en: Book now
       no-nb: Bestill nå
